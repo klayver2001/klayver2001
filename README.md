@@ -1,15 +1,16 @@
-👋 Olá, sou [Seu Nome]!
+👋 Olá, sou Klayver Alencar!
 
 💻 Desenvolvedor Full Stack | 🌐 Apaixonado por Tecnologia
 
 🚀 Atualmente explorando o universo do desenvolvimento web com foco em:
 
-🔧 **Tecnologias:**
+🔧 Tecnologias:
    - JavaScript (ES6+)
    - SQL (MySQL, PostgreSQL)
    - React.js
    - Angular
    - Bootstrap
+   - Typescript
 
 🛠️ Tenho experiência em criar aplicações web inovadoras e intuitivas, utilizando as mais recentes tecnologias e melhores práticas de desenvolvimento.
 
@@ -19,4 +20,4 @@
 
 🔗 [Portfolio] - Veja alguns dos meus projetos em [seuportfolio.com]
 📝 [Blog] - Confira meus artigos sobre desenvolvimento web em [seublog.com]
-📫 Entre em contato: [seuemail@gmail.com]
+📫 Entre em contato: klayveralencar2001@gmail.com
