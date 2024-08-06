@@ -7,9 +7,6 @@
 🔧 Tecnologias:
    - JavaScript (ES6+)
    - SQL (MySQL, PostgreSQL)
-   - React.js
-   - Bootstrap
-   - Typescript
    - Java
    - Spring 
 
