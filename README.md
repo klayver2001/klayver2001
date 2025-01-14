@@ -1,23 +1,17 @@
 👋 Olá, sou Klayver Alencar!
 
-💻 Desenvolvedor Full Stack | 🌐 Apaixonado por Tecnologia
-
-🚀 Atualmente explorando o universo do desenvolvimento web com foco em:
-
-🔧 Tecnologias:
-   - JavaScript (ES6+)
-   - SQL (MySQL, PostgreSQL)
-   - Java
-   - Spring 
-
-🛠️ Tenho experiência em criar aplicações web inovadoras e intuitivas, utilizando as mais recentes tecnologias e melhores práticas de desenvolvimento.
-
-🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades. Compartilho meu conhecimento através de projetos no GitHub e artigos em meu blog pessoal.
-
-📬 Vamos trocar ideias! Estou aberto a colaborações e novos desafios.
-
-🔗 [Portfolio] - Veja alguns dos meus projetos em [(https://github.com/klayver2001/klayver2001)]
-📫 Entre em contato: klayveralencar2001@gmail.com
+ 💻 Desenvolvedor Full Stack |  Entusiasta em Análise de Dados |  Interessado em Redes de Computadores
+ 
+ Desenvolvendo aplicações web e explorando insights através da análise de dados, garantindo conexões com infraestrutura de redes.
+ Tecnologias:
+ 
+*   Desenvolvimento Web: [JavaScript, SQL , Java, Spring]
+*   Análise de Dados: [Python, Pandas, PowerBI]
+*   Redes de Computadores: [ TCP/IP, Firewall, Vlans, BGP, Labs com Mikrotik e Cisco. ]
+*   
+ Vamos conversar! Aberto a colaborações e novas oportunidades.
+ [Portfolio](https://github.com/klayver2001/klayver2001)
+ Contato: klayveralencar2001@gmail.com
 
 &nbsp;
 ---
