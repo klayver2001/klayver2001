@@ -1,17 +1,21 @@
 👋 Olá, sou Klayver Alencar!
 
- 💻 Desenvolvedor Full Stack |  Entusiasta em Análise de Dados |  Interessado em Redes de Computadores
+ 💻 Desenvolvedor Full Stack | Análise de Dados | Redes de Computadores
  
  Desenvolvendo aplicações web e explorando insights através da análise de dados, garantindo conexões com infraestrutura de redes.
  Tecnologias:
  
-*   Desenvolvimento Web: [JavaScript, SQL , Java, Spring]
+*   Desenvolvimento Web: [JavaScript, React, SQL, Java, Spring]
 *   Análise de Dados: [Python, Pandas, PowerBI]
 *   Redes de Computadores: [ TCP/IP, Firewall, Vlans, BGP, Labs com Mikrotik e Cisco. ]
-*   
+  
  Vamos conversar! Aberto a colaborações e novas oportunidades.
+ 
  [Portfolio](https://github.com/klayver2001/klayver2001)
+ 
  Contato: klayveralencar2001@gmail.com
+ 
+ Linkedin: [klayveralencar](https://www.linkedin.com/in/klayveralencar/)
 
 &nbsp;
 ---
