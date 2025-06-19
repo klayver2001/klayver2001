@@ -1,63 +1,51 @@
-# 👋 Olá, sou Klayver Alencar!
+<div align="center">
+  <h1>👋 Olá, eu sou o Klayver Alencar!</h1>
+  <h3>Analista de Redes e Automação</h3>
+  <p>Apaixonado por analisar, otimizar e proteger infraestruturas de rede. Minha missão é usar a automação para resolver problemas complexos, aumentar a eficiência operacional e garantir a máxima confiabilidade dos serviços. Minha experiência com desenvolvimento e dados me ajuda a criar scripts e dashboards para uma visão clara da saúde da rede.</p>
 
-### 🚀 Engenheiro de Redes com foco em Automação e Infraestrutura Confiável
-
-Profissional apaixonado por desenhar, implementar e otimizar infraestruturas de rede. Meu objetivo é utilizar a automação para construir sistemas mais eficientes, resilientes e seguros. Com uma base sólida em desenvolvimento full stack e análise de dados, trago uma perspectiva única para a automação de processos e monitoramento de redes.
-
-&nbsp;
-
----
-
-&nbsp;
-
-### 🧠 Foco Principal e Habilidades
-
-Atualmente, minhas energias estão voltadas para as seguintes áreas:
-
-#### 🌐 **Redes de Computadores**
-Minha base sólida para construir e gerenciar qualquer infraestrutura.
-* **Protocolos Essenciais:** TCP/IP, BGP
-* **Segurança:** Firewalls e políticas de segurança
-* **Infraestrutura de LAN:** VLANs e segmentação de redes
-* **Laboratórios e Equipamentos:** Experiência prática com Mikrotik, Cisco, Huawei e HPE.
-
-#### 🤖 **Automação de Redes**
-Utilizo programação para provisionar, gerenciar e monitorar a infraestrutura de forma inteligente.
-* **Linguagem Principal:** Python
-* **Análise e Visualização:** Pandas para análise de logs/telemetria e PowerBI para criação de dashboards
-* **Ferramentas (Próximos Passos):** Focando em Ansible, Netmiko e Terraform para automação e IaC (Infrastructure as Code).
-
-#### 🛠️ **Conhecimentos de Apoio**
-Minha experiência anterior que me permite criar soluções mais completas.
-* **Desenvolvimento:** JavaScript, React, Typescript
-* **Bancos de Dados:** SQL
-
-&nbsp;
-
----
-
-&nbsp;
-
-### 📫 Entre em Contato!
-
-Estou sempre aberto a novas colaborações, projetos desafiadores e oportunidades na área de redes e automação. Vamos conversar!
-
-<a href="mailto:klayveralencar2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/klayveralencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-&nbsp;
----
-&nbsp;
-
-<div>
-<a href="https://github.com/klayver2001">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayver2001&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=klayver2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://klayver-alencar-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/klayveralencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:klayveralencar2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
- 
- [Portfolio](https://github.com/klayver2001/klayver2001)
- 
- Contato: klayveralencar2001@gmail.com
- 
- Linkedin: [klayveralencar](https://www.linkedin.com/in/klayveralencar/)
 
+&nbsp;
+---
+&nbsp;
+
+<h3 align="center">🛠️ Minhas Ferramentas e Tecnologias</h3>
+
+<div align="center">
+  <p><b>Redes & Infraestrutura</b></p>
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=Aparat&logoColor=white" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/Firewall-F24E1E?style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" alt="Firewall">
+  <img src="https://img.shields.io/badge/VLANs-00569E?style=for-the-badge" alt="VLANs">
+  <img src="https://img.shields.io/badge/BGP-439542?style=for-the-badge" alt="BGP">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Mikrotik-55B9E3?style=for-the-badge" alt="Mikrotik">
+
+  <br>
+
+  <p><b>Automação & Análise de Dados</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <br>
+
+  <p><b>Desenvolvimento & Outras Tecnologias</b></p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</div>
+
+&nbsp;
+---
+&nbsp;
+
+<div align="center">
+  <a href="https://github.com/klayver2001">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayver2001&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=klayver2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
